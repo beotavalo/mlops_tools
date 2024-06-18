@@ -1,2 +1,2 @@
-# ML-Applications
-ML Applications using Tensorflow or PyTorch
+# ML & DL-Applications
+ML and DL Applications using scikit-learn, Tensorflow, or PyTorch
