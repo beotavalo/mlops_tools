@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/39aa4d7e9ee64ef79c737d94753f8d8a/artifacts
+end_time: 1732741504807
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 39aa4d7e9ee64ef79c737d94753f8d8a
+run_name: judicious-frog-450
+run_uuid: 39aa4d7e9ee64ef79c737d94753f8d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741504687
+status: 3
+tags: []
+user_id: codespace

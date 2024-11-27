@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/e615199e9a094392b5da9834b3f602d7/artifacts
+end_time: 1732744952488
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: e615199e9a094392b5da9834b3f602d7
+run_name: unique-crane-872
+run_uuid: e615199e9a094392b5da9834b3f602d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744952279
+status: 3
+tags: []
+user_id: codespace

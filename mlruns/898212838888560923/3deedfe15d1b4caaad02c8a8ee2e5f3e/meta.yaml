@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/3deedfe15d1b4caaad02c8a8ee2e5f3e/artifacts
+end_time: 1732746168037
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 3deedfe15d1b4caaad02c8a8ee2e5f3e
+run_name: sedate-fawn-744
+run_uuid: 3deedfe15d1b4caaad02c8a8ee2e5f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746167871
+status: 3
+tags: []
+user_id: codespace

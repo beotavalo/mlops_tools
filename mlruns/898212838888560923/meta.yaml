@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops_tools/mlruns/898212838888560923
+creation_time: 1732741491411
+experiment_id: '898212838888560923'
+last_update_time: 1732741491411
+lifecycle_stage: active
+name: regression_experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/2ab7bd3d04264effb1f4634dc7698fa5/artifacts
+end_time: 1732746171421
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 2ab7bd3d04264effb1f4634dc7698fa5
+run_name: sedate-lynx-870
+run_uuid: 2ab7bd3d04264effb1f4634dc7698fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746171332
+status: 3
+tags: []
+user_id: codespace

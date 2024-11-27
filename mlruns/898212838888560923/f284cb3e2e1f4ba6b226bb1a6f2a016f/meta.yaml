@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/f284cb3e2e1f4ba6b226bb1a6f2a016f/artifacts
+end_time: 1732744957517
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: f284cb3e2e1f4ba6b226bb1a6f2a016f
+run_name: upbeat-goose-152
+run_uuid: f284cb3e2e1f4ba6b226bb1a6f2a016f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744957384
+status: 3
+tags: []
+user_id: codespace

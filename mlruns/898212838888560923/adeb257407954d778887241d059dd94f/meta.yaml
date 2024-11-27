@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/adeb257407954d778887241d059dd94f/artifacts
+end_time: 1732741512280
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: adeb257407954d778887241d059dd94f
+run_name: serious-mouse-801
+run_uuid: adeb257407954d778887241d059dd94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741512151
+status: 3
+tags: []
+user_id: codespace

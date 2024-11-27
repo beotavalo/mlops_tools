@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/5ca0d8f0639b422a9cc312ba501ae535/artifacts
+end_time: 1732744957860
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 5ca0d8f0639b422a9cc312ba501ae535
+run_name: beautiful-lark-441
+run_uuid: 5ca0d8f0639b422a9cc312ba501ae535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744957720
+status: 3
+tags: []
+user_id: codespace

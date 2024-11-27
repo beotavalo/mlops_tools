@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/4db0ef878145403db310d2e6f2fdf949/artifacts
+end_time: 1732744954776
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 4db0ef878145403db310d2e6f2fdf949
+run_name: bouncy-vole-925
+run_uuid: 4db0ef878145403db310d2e6f2fdf949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744954535
+status: 3
+tags: []
+user_id: codespace

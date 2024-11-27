@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/241d8e579dfd4de1aa875b74aa13f61f/artifacts
+end_time: 1732741508947
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 241d8e579dfd4de1aa875b74aa13f61f
+run_name: puzzled-skunk-166
+run_uuid: 241d8e579dfd4de1aa875b74aa13f61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741508830
+status: 3
+tags: []
+user_id: codespace

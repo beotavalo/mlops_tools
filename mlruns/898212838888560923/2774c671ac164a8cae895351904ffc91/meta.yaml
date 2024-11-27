@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/2774c671ac164a8cae895351904ffc91/artifacts
+end_time: 1732741507376
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 2774c671ac164a8cae895351904ffc91
+run_name: serious-koi-229
+run_uuid: 2774c671ac164a8cae895351904ffc91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741507232
+status: 3
+tags: []
+user_id: codespace

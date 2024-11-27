@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/af10645524554281971f966be37bce19/artifacts
+end_time: 1732741510041
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: af10645524554281971f966be37bce19
+run_name: delightful-newt-350
+run_uuid: af10645524554281971f966be37bce19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741509833
+status: 3
+tags: []
+user_id: codespace

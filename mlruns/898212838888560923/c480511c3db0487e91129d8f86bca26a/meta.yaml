@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/c480511c3db0487e91129d8f86bca26a/artifacts
+end_time: 1732746176015
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: c480511c3db0487e91129d8f86bca26a
+run_name: glamorous-hound-690
+run_uuid: c480511c3db0487e91129d8f86bca26a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746175939
+status: 3
+tags: []
+user_id: codespace

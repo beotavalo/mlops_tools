@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/c484f3ca63874c84b0b065ed16d32d21/artifacts
+end_time: 1732746452725
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: c484f3ca63874c84b0b065ed16d32d21
+run_name: gregarious-mare-256
+run_uuid: c484f3ca63874c84b0b065ed16d32d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746452667
+status: 3
+tags: []
+user_id: codespace

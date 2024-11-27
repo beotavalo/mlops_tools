@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/3f01c655e34a4dfe998199a976d7926c/artifacts
+end_time: 1732744950815
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 3f01c655e34a4dfe998199a976d7926c
+run_name: adaptable-cod-229
+run_uuid: 3f01c655e34a4dfe998199a976d7926c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744950639
+status: 3
+tags: []
+user_id: codespace

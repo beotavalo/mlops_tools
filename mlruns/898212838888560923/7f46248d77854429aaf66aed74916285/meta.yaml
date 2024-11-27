@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/7f46248d77854429aaf66aed74916285/artifacts
+end_time: 1732746168403
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 7f46248d77854429aaf66aed74916285
+run_name: upbeat-conch-669
+run_uuid: 7f46248d77854429aaf66aed74916285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746168314
+status: 3
+tags: []
+user_id: codespace

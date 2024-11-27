@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/c0d20171256e446dbfa9d6cb4b44cf25/artifacts
+end_time: 1732744956111
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: c0d20171256e446dbfa9d6cb4b44cf25
+run_name: sneaky-sheep-83
+run_uuid: c0d20171256e446dbfa9d6cb4b44cf25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744955819
+status: 3
+tags: []
+user_id: codespace

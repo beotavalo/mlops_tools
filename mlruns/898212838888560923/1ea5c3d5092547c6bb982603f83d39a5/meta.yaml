@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/1ea5c3d5092547c6bb982603f83d39a5/artifacts
+end_time: 1732744957709
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 1ea5c3d5092547c6bb982603f83d39a5
+run_name: honorable-koi-111
+run_uuid: 1ea5c3d5092547c6bb982603f83d39a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744957529
+status: 3
+tags: []
+user_id: codespace

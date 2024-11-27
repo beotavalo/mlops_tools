@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/67c48f05a42e4165aa8cfa312fdd4c34/artifacts
+end_time: 1732746452109
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 67c48f05a42e4165aa8cfa312fdd4c34
+run_name: nimble-tern-543
+run_uuid: 67c48f05a42e4165aa8cfa312fdd4c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746451912
+status: 3
+tags: []
+user_id: codespace

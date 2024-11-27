@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/0ff4f59c44e54ca2a8865295b898f8d2/artifacts
+end_time: 1732744953348
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 0ff4f59c44e54ca2a8865295b898f8d2
+run_name: upset-rook-774
+run_uuid: 0ff4f59c44e54ca2a8865295b898f8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744953118
+status: 3
+tags: []
+user_id: codespace

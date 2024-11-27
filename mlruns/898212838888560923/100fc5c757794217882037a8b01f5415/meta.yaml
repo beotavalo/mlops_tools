@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/100fc5c757794217882037a8b01f5415/artifacts
+end_time: 1732741508618
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 100fc5c757794217882037a8b01f5415
+run_name: gentle-flea-779
+run_uuid: 100fc5c757794217882037a8b01f5415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741508571
+status: 3
+tags: []
+user_id: codespace

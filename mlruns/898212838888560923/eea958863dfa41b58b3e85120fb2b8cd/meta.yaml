@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/eea958863dfa41b58b3e85120fb2b8cd/artifacts
+end_time: 1732746168885
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: eea958863dfa41b58b3e85120fb2b8cd
+run_name: skittish-sloth-810
+run_uuid: eea958863dfa41b58b3e85120fb2b8cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746168790
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/8d0b3c39221b48d09740a72041caeedf/artifacts
+end_time: 1732744956427
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 8d0b3c39221b48d09740a72041caeedf
+run_name: magnificent-mink-526
+run_uuid: 8d0b3c39221b48d09740a72041caeedf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744956126
+status: 3
+tags: []
+user_id: codespace

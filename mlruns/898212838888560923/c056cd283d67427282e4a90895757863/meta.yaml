@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/c056cd283d67427282e4a90895757863/artifacts
+end_time: 1732744953446
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: c056cd283d67427282e4a90895757863
+run_name: sassy-hog-856
+run_uuid: c056cd283d67427282e4a90895757863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744953364
+status: 3
+tags: []
+user_id: codespace

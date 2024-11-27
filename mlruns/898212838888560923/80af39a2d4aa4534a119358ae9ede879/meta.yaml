@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/80af39a2d4aa4534a119358ae9ede879/artifacts
+end_time: 1732746453820
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 80af39a2d4aa4534a119358ae9ede879
+run_name: bedecked-sloth-368
+run_uuid: 80af39a2d4aa4534a119358ae9ede879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746453638
+status: 3
+tags: []
+user_id: codespace

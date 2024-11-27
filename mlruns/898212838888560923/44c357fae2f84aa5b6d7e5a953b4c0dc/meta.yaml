@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/44c357fae2f84aa5b6d7e5a953b4c0dc/artifacts
+end_time: 1732741512862
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 44c357fae2f84aa5b6d7e5a953b4c0dc
+run_name: capricious-bug-570
+run_uuid: 44c357fae2f84aa5b6d7e5a953b4c0dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741512710
+status: 3
+tags: []
+user_id: codespace

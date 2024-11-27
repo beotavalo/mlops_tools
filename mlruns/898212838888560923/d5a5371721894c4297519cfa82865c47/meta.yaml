@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/d5a5371721894c4297519cfa82865c47/artifacts
+end_time: 1732746459657
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: d5a5371721894c4297519cfa82865c47
+run_name: fun-cow-715
+run_uuid: d5a5371721894c4297519cfa82865c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746459445
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/1095fb08754848d694b05811b860ff1c/artifacts
+end_time: 1732744949581
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 1095fb08754848d694b05811b860ff1c
+run_name: unruly-bee-241
+run_uuid: 1095fb08754848d694b05811b860ff1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744949505
+status: 3
+tags: []
+user_id: codespace

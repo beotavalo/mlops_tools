@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/5d07ae3aa8904ccbb652af94748c173a/artifacts
+end_time: 1732744955008
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 5d07ae3aa8904ccbb652af94748c173a
+run_name: defiant-slug-362
+run_uuid: 5d07ae3aa8904ccbb652af94748c173a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744954786
+status: 3
+tags: []
+user_id: codespace

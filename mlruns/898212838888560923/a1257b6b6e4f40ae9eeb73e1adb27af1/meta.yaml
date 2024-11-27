@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/a1257b6b6e4f40ae9eeb73e1adb27af1/artifacts
+end_time: 1732746459117
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: a1257b6b6e4f40ae9eeb73e1adb27af1
+run_name: honorable-auk-174
+run_uuid: a1257b6b6e4f40ae9eeb73e1adb27af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746458892
+status: 3
+tags: []
+user_id: codespace

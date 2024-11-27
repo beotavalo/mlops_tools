@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/9069ab84ac3c4e63a170c0ff048907d0/artifacts
+end_time: 1732744949226
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 9069ab84ac3c4e63a170c0ff048907d0
+run_name: whimsical-shoat-595
+run_uuid: 9069ab84ac3c4e63a170c0ff048907d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744949045
+status: 3
+tags: []
+user_id: codespace

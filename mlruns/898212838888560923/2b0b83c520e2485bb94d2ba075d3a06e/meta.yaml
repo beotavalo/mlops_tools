@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/2b0b83c520e2485bb94d2ba075d3a06e/artifacts
+end_time: 1732746452947
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 2b0b83c520e2485bb94d2ba075d3a06e
+run_name: tasteful-skink-703
+run_uuid: 2b0b83c520e2485bb94d2ba075d3a06e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746452783
+status: 3
+tags: []
+user_id: codespace

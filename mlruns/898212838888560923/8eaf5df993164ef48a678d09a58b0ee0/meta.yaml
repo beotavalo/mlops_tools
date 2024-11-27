@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/8eaf5df993164ef48a678d09a58b0ee0/artifacts
+end_time: 1732741510365
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 8eaf5df993164ef48a678d09a58b0ee0
+run_name: popular-mule-157
+run_uuid: 8eaf5df993164ef48a678d09a58b0ee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741510160
+status: 3
+tags: []
+user_id: codespace

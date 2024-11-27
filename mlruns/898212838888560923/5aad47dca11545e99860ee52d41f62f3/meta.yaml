@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/5aad47dca11545e99860ee52d41f62f3/artifacts
+end_time: 1732741511384
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 5aad47dca11545e99860ee52d41f62f3
+run_name: selective-frog-348
+run_uuid: 5aad47dca11545e99860ee52d41f62f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741511304
+status: 3
+tags: []
+user_id: codespace

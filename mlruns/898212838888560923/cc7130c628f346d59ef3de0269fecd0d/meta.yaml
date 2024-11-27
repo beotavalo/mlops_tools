@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/cc7130c628f346d59ef3de0269fecd0d/artifacts
+end_time: 1732746456597
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: cc7130c628f346d59ef3de0269fecd0d
+run_name: loud-snail-504
+run_uuid: cc7130c628f346d59ef3de0269fecd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746456366
+status: 3
+tags: []
+user_id: codespace

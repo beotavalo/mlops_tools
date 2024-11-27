@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/9d23edd254904e458c44536143299d4e/artifacts
+end_time: 1732746174059
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 9d23edd254904e458c44536143299d4e
+run_name: serious-snake-151
+run_uuid: 9d23edd254904e458c44536143299d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746173790
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/db7f4be1bd844e769ad2a6f0a70a3316/artifacts
+end_time: 1732746458051
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: db7f4be1bd844e769ad2a6f0a70a3316
+run_name: persistent-finch-787
+run_uuid: db7f4be1bd844e769ad2a6f0a70a3316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746457787
+status: 3
+tags: []
+user_id: codespace

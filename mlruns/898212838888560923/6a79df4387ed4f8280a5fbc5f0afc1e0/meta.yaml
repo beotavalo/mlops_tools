@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/6a79df4387ed4f8280a5fbc5f0afc1e0/artifacts
+end_time: 1732741509825
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 6a79df4387ed4f8280a5fbc5f0afc1e0
+run_name: charming-bear-147
+run_uuid: 6a79df4387ed4f8280a5fbc5f0afc1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741509763
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/7db469381afd49fa8df62146ba78b265/artifacts
+end_time: 1732744955785
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 7db469381afd49fa8df62146ba78b265
+run_name: treasured-asp-584
+run_uuid: 7db469381afd49fa8df62146ba78b265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744955666
+status: 3
+tags: []
+user_id: codespace

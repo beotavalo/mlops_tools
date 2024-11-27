@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/3217a2aeed9347c0956015628a289b79/artifacts
+end_time: 1732741507760
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 3217a2aeed9347c0956015628a289b79
+run_name: likeable-sow-666
+run_uuid: 3217a2aeed9347c0956015628a289b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741507668
+status: 3
+tags: []
+user_id: codespace

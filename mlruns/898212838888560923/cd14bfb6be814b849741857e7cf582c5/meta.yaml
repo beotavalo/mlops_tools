@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/cd14bfb6be814b849741857e7cf582c5/artifacts
+end_time: 1732746176548
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: cd14bfb6be814b849741857e7cf582c5
+run_name: industrious-snake-15
+run_uuid: cd14bfb6be814b849741857e7cf582c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746176264
+status: 3
+tags: []
+user_id: codespace

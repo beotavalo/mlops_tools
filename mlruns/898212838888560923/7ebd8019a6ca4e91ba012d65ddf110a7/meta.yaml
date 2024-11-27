@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/7ebd8019a6ca4e91ba012d65ddf110a7/artifacts
+end_time: 1732744953096
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 7ebd8019a6ca4e91ba012d65ddf110a7
+run_name: dapper-fawn-351
+run_uuid: 7ebd8019a6ca4e91ba012d65ddf110a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744952859
+status: 3
+tags: []
+user_id: codespace

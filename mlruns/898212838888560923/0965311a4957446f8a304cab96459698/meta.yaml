@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/0965311a4957446f8a304cab96459698/artifacts
+end_time: 1732741505745
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 0965311a4957446f8a304cab96459698
+run_name: charming-seal-306
+run_uuid: 0965311a4957446f8a304cab96459698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741505309
+status: 3
+tags: []
+user_id: codespace

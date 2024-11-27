@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/4815bbe542f4493aad5535decd67d8cb/artifacts
+end_time: 1732746171985
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 4815bbe542f4493aad5535decd67d8cb
+run_name: auspicious-croc-747
+run_uuid: 4815bbe542f4493aad5535decd67d8cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746171815
+status: 3
+tags: []
+user_id: codespace

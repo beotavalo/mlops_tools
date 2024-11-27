@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/4426401c474f4351bf379a6cd7edd62a/artifacts
+end_time: 1732741507661
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 4426401c474f4351bf379a6cd7edd62a
+run_name: unequaled-asp-780
+run_uuid: 4426401c474f4351bf379a6cd7edd62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741507617
+status: 3
+tags: []
+user_id: codespace

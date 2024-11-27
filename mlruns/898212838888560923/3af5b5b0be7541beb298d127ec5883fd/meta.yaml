@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/3af5b5b0be7541beb298d127ec5883fd/artifacts
+end_time: 1732741513447
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 3af5b5b0be7541beb298d127ec5883fd
+run_name: welcoming-doe-782
+run_uuid: 3af5b5b0be7541beb298d127ec5883fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741513333
+status: 3
+tags: []
+user_id: codespace

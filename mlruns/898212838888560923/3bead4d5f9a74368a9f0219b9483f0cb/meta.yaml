@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/3bead4d5f9a74368a9f0219b9483f0cb/artifacts
+end_time: 1732746169323
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 3bead4d5f9a74368a9f0219b9483f0cb
+run_name: unequaled-fawn-430
+run_uuid: 3bead4d5f9a74368a9f0219b9483f0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746169275
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/19aaf1747c7e42aaa8ebdfeb6c51689d/artifacts
+end_time: 1732741511242
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 19aaf1747c7e42aaa8ebdfeb6c51689d
+run_name: peaceful-shad-1000
+run_uuid: 19aaf1747c7e42aaa8ebdfeb6c51689d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741511090
+status: 3
+tags: []
+user_id: codespace

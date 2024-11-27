@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/4f34f7f21f2e4e4fb8c342f8a5b69c21/artifacts
+end_time: 1732744947337
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 4f34f7f21f2e4e4fb8c342f8a5b69c21
+run_name: intrigued-mole-836
+run_uuid: 4f34f7f21f2e4e4fb8c342f8a5b69c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744947149
+status: 3
+tags: []
+user_id: codespace

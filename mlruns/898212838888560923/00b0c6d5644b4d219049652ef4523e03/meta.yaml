@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/00b0c6d5644b4d219049652ef4523e03/artifacts
+end_time: 1732744953869
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 00b0c6d5644b4d219049652ef4523e03
+run_name: fun-duck-771
+run_uuid: 00b0c6d5644b4d219049652ef4523e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744953593
+status: 3
+tags: []
+user_id: codespace

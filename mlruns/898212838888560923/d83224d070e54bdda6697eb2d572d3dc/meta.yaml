@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/d83224d070e54bdda6697eb2d572d3dc/artifacts
+end_time: 1732746173602
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: d83224d070e54bdda6697eb2d572d3dc
+run_name: fearless-hare-261
+run_uuid: d83224d070e54bdda6697eb2d572d3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746173537
+status: 3
+tags: []
+user_id: codespace

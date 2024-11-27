@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/676e67f7f33b4470b219d37666593a06/artifacts
+end_time: 1732741507224
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 676e67f7f33b4470b219d37666593a06
+run_name: beautiful-dove-877
+run_uuid: 676e67f7f33b4470b219d37666593a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741506858
+status: 3
+tags: []
+user_id: codespace

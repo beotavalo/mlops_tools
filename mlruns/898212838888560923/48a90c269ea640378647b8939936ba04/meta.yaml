@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/48a90c269ea640378647b8939936ba04/artifacts
+end_time: 1732746458477
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 48a90c269ea640378647b8939936ba04
+run_name: omniscient-skunk-51
+run_uuid: 48a90c269ea640378647b8939936ba04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746458271
+status: 3
+tags: []
+user_id: codespace

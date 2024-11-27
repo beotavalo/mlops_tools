@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/12f1387142474831b428438b78b15fda/artifacts
+end_time: 1732746457451
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 12f1387142474831b428438b78b15fda
+run_name: enchanting-midge-356
+run_uuid: 12f1387142474831b428438b78b15fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746457319
+status: 3
+tags: []
+user_id: codespace

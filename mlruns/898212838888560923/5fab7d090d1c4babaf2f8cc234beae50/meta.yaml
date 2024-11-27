@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/5fab7d090d1c4babaf2f8cc234beae50/artifacts
+end_time: 1732744947984
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 5fab7d090d1c4babaf2f8cc234beae50
+run_name: puzzled-stag-317
+run_uuid: 5fab7d090d1c4babaf2f8cc234beae50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744947707
+status: 3
+tags: []
+user_id: codespace

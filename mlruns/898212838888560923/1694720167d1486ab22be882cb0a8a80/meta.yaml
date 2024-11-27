@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/1694720167d1486ab22be882cb0a8a80/artifacts
+end_time: 1732746173528
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 1694720167d1486ab22be882cb0a8a80
+run_name: able-rat-934
+run_uuid: 1694720167d1486ab22be882cb0a8a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746173356
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/5e6e26a233114be7ba3560d789cf89cd/artifacts
+end_time: 1732746168186
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 5e6e26a233114be7ba3560d789cf89cd
+run_name: upbeat-steed-650
+run_uuid: 5e6e26a233114be7ba3560d789cf89cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746168117
+status: 3
+tags: []
+user_id: codespace

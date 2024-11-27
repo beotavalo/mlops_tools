@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/ac50f0dad24d4223a9e5f6c6f1471da9/artifacts
+end_time: 1732746458720
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: ac50f0dad24d4223a9e5f6c6f1471da9
+run_name: worried-flea-939
+run_uuid: ac50f0dad24d4223a9e5f6c6f1471da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746458487
+status: 3
+tags: []
+user_id: codespace

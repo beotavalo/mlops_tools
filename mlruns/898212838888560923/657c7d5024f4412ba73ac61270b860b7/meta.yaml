@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/657c7d5024f4412ba73ac61270b860b7/artifacts
+end_time: 1732744954399
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 657c7d5024f4412ba73ac61270b860b7
+run_name: rebellious-squid-346
+run_uuid: 657c7d5024f4412ba73ac61270b860b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744954079
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/31257c74ccab4c60a64ca8d635ed5ebc/artifacts
+end_time: 1732744957155
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 31257c74ccab4c60a64ca8d635ed5ebc
+run_name: able-stoat-37
+run_uuid: 31257c74ccab4c60a64ca8d635ed5ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744956955
+status: 3
+tags: []
+user_id: codespace

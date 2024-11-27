@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/2ff80dad5bb94d6d9954dce201f90439/artifacts
+end_time: 1732746457678
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 2ff80dad5bb94d6d9954dce201f90439
+run_name: upset-turtle-897
+run_uuid: 2ff80dad5bb94d6d9954dce201f90439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746457461
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/c7858d72913141e38eb5e2727f6b9087/artifacts
+end_time: 1732744950622
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: c7858d72913141e38eb5e2727f6b9087
+run_name: gregarious-fly-197
+run_uuid: c7858d72913141e38eb5e2727f6b9087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744950495
+status: 3
+tags: []
+user_id: codespace

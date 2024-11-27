@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/3f940cf51e5b4cc1ada8d2ee16bf57fc/artifacts
+end_time: 1732744954063
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 3f940cf51e5b4cc1ada8d2ee16bf57fc
+run_name: dashing-hog-423
+run_uuid: 3f940cf51e5b4cc1ada8d2ee16bf57fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744953882
+status: 3
+tags: []
+user_id: codespace

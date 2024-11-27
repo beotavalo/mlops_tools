@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/eed2c828f4c7481fadaeddd512926593/artifacts
+end_time: 1732746176078
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: eed2c828f4c7481fadaeddd512926593
+run_name: luminous-lamb-10
+run_uuid: eed2c828f4c7481fadaeddd512926593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746176028
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/1dd33c12f91a4de9ad30b3b5a53dc307/artifacts
+end_time: 1732746176234
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 1dd33c12f91a4de9ad30b3b5a53dc307
+run_name: marvelous-whale-509
+run_uuid: 1dd33c12f91a4de9ad30b3b5a53dc307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746176087
+status: 3
+tags: []
+user_id: codespace

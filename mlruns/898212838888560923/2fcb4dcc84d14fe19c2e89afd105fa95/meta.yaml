@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/2fcb4dcc84d14fe19c2e89afd105fa95/artifacts
+end_time: 1732741512701
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 2fcb4dcc84d14fe19c2e89afd105fa95
+run_name: adorable-mole-290
+run_uuid: 2fcb4dcc84d14fe19c2e89afd105fa95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732741512412
+status: 3
+tags: []
+user_id: codespace

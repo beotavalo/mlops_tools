@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_tools/mlruns/898212838888560923/0db0b013601f43e18574361727f75c24/artifacts
+end_time: 1732746170708
+entry_point_name: ''
+experiment_id: '898212838888560923'
+lifecycle_stage: active
+run_id: 0db0b013601f43e18574361727f75c24
+run_name: thundering-duck-185
+run_uuid: 0db0b013601f43e18574361727f75c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746170412
+status: 3
+tags: []
+user_id: codespace
