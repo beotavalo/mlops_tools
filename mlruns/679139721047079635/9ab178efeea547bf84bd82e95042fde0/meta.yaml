@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679139721047079635/9ab178efeea547bf84bd82e95042fde0/artifacts
+end_time: 1732756290357
+entry_point_name: ''
+experiment_id: '679139721047079635'
+lifecycle_stage: active
+run_id: 9ab178efeea547bf84bd82e95042fde0
+run_name: adventurous-kite-2
+run_uuid: 9ab178efeea547bf84bd82e95042fde0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732756290214
+status: 3
+tags: []
+user_id: codespace

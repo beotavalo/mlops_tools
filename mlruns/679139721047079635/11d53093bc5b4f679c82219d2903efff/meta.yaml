@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679139721047079635/11d53093bc5b4f679c82219d2903efff/artifacts
+end_time: 1732756286784
+entry_point_name: ''
+experiment_id: '679139721047079635'
+lifecycle_stage: active
+run_id: 11d53093bc5b4f679c82219d2903efff
+run_name: carefree-loon-85
+run_uuid: 11d53093bc5b4f679c82219d2903efff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732756286547
+status: 3
+tags: []
+user_id: codespace

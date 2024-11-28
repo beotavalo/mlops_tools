@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679139721047079635/9f7f5c7d51ed4c859fa10d9d753f60c4/artifacts
+end_time: 1732756288639
+entry_point_name: ''
+experiment_id: '679139721047079635'
+lifecycle_stage: active
+run_id: 9f7f5c7d51ed4c859fa10d9d753f60c4
+run_name: nebulous-conch-226
+run_uuid: 9f7f5c7d51ed4c859fa10d9d753f60c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732756288564
+status: 3
+tags: []
+user_id: codespace

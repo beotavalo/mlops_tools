@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732756310309
+current_stage: Production
+description: ''
+last_updated_timestamp: 1732756310318
+name: RandomForestRegressor
+run_id: 4553ac687b5d49488ca28488e082b726
+run_link: ''
+source: file:///workspaces/mlops_tools/mlruns/898212838888560923/4553ac687b5d49488ca28488e082b726/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///workspaces/mlops_tools/mlruns/898212838888560923/4553ac687b5d49488ca28488e082b726/artifacts/random_forest_model
+user_id: null
+version: 5
