@@ -1,0 +1,69 @@
+services:
+  airflow-db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    networks:
+      - airflow-network
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  airflow-webserver:
+    image: apache/airflow:2.7.1
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__WEBSERVER__SECRET_KEY: "your_secret_key"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+      AIRFLOW__WEBSERVER__ENABLE_PROXY_FIX: "True"
+    networks:
+      - airflow-network
+    depends_on:
+      - airflow-db
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    ports:
+      - "8080:8080"
+    command: webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.7.1
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+    networks:
+      - airflow-network
+    depends_on:
+      - airflow-db
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    command: scheduler
+
+  airflow-init:
+    image: apache/airflow:2.7.1
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+    networks:
+      - airflow-network
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    entrypoint: airflow db init
+
+networks:
+  airflow-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local
+  airflow_logs:
+    driver: local
