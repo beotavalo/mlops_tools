@@ -1,2 +1,2 @@
-# ML & DL-Applications
-ML and DL Applications using scikit-learn, Tensorflow, or PyTorch
+# MLOPS Tools and Practical Examples
+MLOps tools with guides to deploy on ML projects.
