@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775264070592552559/cb21065fa5c94dff9dd1f16ef4ec0afe/artifacts
+end_time: 1733235849472
+entry_point_name: ''
+experiment_id: '775264070592552559'
+lifecycle_stage: active
+run_id: cb21065fa5c94dff9dd1f16ef4ec0afe
+run_name: apples_rf_test
+run_uuid: cb21065fa5c94dff9dd1f16ef4ec0afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733235847621
+status: 3
+tags: []
+user_id: codespace
