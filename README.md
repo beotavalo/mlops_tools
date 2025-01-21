@@ -8,4 +8,4 @@ MLOps tools with guides to deploy on ML projects.
 ## DVC
 
 ## Reference
--[MLOps tools](https://github.com/beotavalo/dmls-book/blob/main/mlops-tools.md)
+- [MLOps tools](https://github.com/beotavalo/dmls-book/blob/main/mlops-tools.md)
