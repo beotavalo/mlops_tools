@@ -38,3 +38,4 @@ AI grows more complex by the hour, with complex data modalities and new models, 
 - [MLOps for all](https://mlops-for-all.github.io/en/docs/introduction/intro)
 - [5 Levels of MLOps Maturity](https://towardsdatascience.com/5-levels-of-mlops-maturity-9c85adf09fe2/)
 - [MLOps for Continuous Learning](https://youtu.be/2toh9hhkeI0)
+- [MLOPs with databrics]
