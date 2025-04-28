@@ -39,3 +39,5 @@ AI grows more complex by the hour, with complex data modalities and new models, 
 - [5 Levels of MLOps Maturity](https://towardsdatascience.com/5-levels-of-mlops-maturity-9c85adf09fe2/)
 - [MLOps for Continuous Learning](https://youtu.be/2toh9hhkeI0)
 - [MLOPs with Databrics](https://notebooks.databricks.com/demos/mlops-end2end/index.html)
+- [Difference between Serving Techniques: BentoML and Seldon Core](https://yadnyesh.medium.com/difference-between-serving-techniques-bentoml-and-seldon-core-b89f0840f518)
+- [Best Machine Learning Model Deployment Tools in 2024](https://www.truefoundry.com/blog/model-deployment-tools)
